@@ -1,0 +1,16 @@
+
+
+jupyterlab
+
+numpy
+pandas
+scipy
+scikit-learn
+
+matplotlib
+#xgboost
+lightgbm
+tensorflow
+keras
+xlearn
+
