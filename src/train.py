@@ -16,6 +16,7 @@ import warnings
 
 warnings.simplefilter('ignore')
 
+# https://www.kaggle.com/xavierbourretsicotte/localizing-utc-time-eda-and-walkthrough
 
 def load_data(path, nrows=None):
 
